@@ -1,0 +1,66 @@
+[
+  {
+    "email": "mohdbilal@gmail.com",
+    "hashedPassword": "$2a$12$KPMXvIZPh/FbMcI2/Oahfenf.7xo2niu./0NcCixuWqQKDHlWLbJC",
+    "name": "Mohd Bilal",
+    "password": null,
+    "phoneNumber": "7618106617",
+    "ticketsBooked": [
+      {
+        "ticketId": "64c4dade-2f14-44bc-a15e-877bebb316ee",
+        "trainNo": "12018",
+        "trainName": "DDN Shatabdi Express",
+        "source": "saharanpur",
+        "destination": "delhi",
+        "travelDate": "16-10-2025 01:56 pm",
+        "passengerName": "Mohd Bilal",
+        "row": 0,
+        "seat": 1,
+        "train": {
+          "trainNo": "12018",
+          "trainName": "DDN Shatabdi Express",
+          "seats": [
+            [
+              0,
+              1,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "stationTimes": {
+            "delhi": "14-10-2025 08:30 AM",
+            "saharanpur": "14-10-2025 11:55 AM"
+          },
+          "stations": [
+            "saharanpur",
+            "delhi"
+          ],
+          "trainInfo": "12018 - DDN Shatabdi Express | Route: [saharanpur, delhi]"
+        },
+        "ticketInfo": "Ticket ID: 64c4dade-2f14-44bc-a15e-877bebb316ee\nTrain: DDN Shatabdi Express (12018)\nFrom: saharanpur\nTo: delhi\nPassenger: Mohd Bilal\nRow: 0, Seat: 1\nTravel Date: 16-10-2025 01:56 pm\n"
+      }
+    ],
+    "userId": "2513b41b-60a2-4e69-8936-0f2eaabb4258"
+  }]
